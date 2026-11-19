@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "上海婦孺醫院紀事（約 1891） / Our Hospital in China — Transcription Dataset",
+  "title": "上海婦孺醫院紀事(約 1891) / Our Hospital in China — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-19",
   "authors": [
@@ -25,5 +25,6 @@
     "medical missions in China",
     "S. D. Doremus",
     "historical transcription"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24371988"
 }
