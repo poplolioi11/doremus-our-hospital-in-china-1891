@@ -1,7 +1,7 @@
 {
   "source_title": "Our Hospital in China",
   "title_zh": "上海婦孺醫院紀事（約 1891）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/ourhospitalinchi00dore",
   "manifest": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_scandata.xml",
@@ -67,7 +67,7 @@
           "units": [
             {
               "kind": "masthead",
-              "text": "No. 81.\nWoman’s Union Missionary Society.\nHospital Series I.",
+              "text": "No. 81.\nWoman’s Union Missionary Society.\nHOSPITAL SERIES I.",
               "id": "f002-s-u01"
             },
             {
@@ -77,7 +77,7 @@
             },
             {
               "kind": "paragraph",
-              "text": "Just outside the native part of Shanghai stands a beautiful\nbuilding of brick and gray stone, over whose entrance is\ncarved: “Margaret Williamson Hospital, 1884.”",
+              "text": "JUST outside the native part of Shanghai stands a beautiful\nbuilding of brick and gray stone, over whose entrance is\ncarved: “MARGARET WILLIAMSON HOSPITAL, 1884.”",
               "id": "f002-s-u03"
             },
             {
@@ -185,7 +185,7 @@
             },
             {
               "kind": "paragraph",
-              "text": "In the Children’s Ward of the Hospital may be found “a\nlittle slave girl, whose parents dying, she was sold by an uncle\nfor sixty dollars. Though thirteen years old she never had a\nbath before she came to us. Our convenient bath room, with\nthe united efforts of two Chinese women and plenty of soap and\nwater, soon produced a comely maiden. She now looks happy\nenjoying the tasteful cloth picture books, sent out in our wel-\ncome mission boxes.",
+              "text": "In the CHILDREN’S WARD of the Hospital may be found “a\nlittle slave girl, whose parents dying, she was sold by an uncle\nfor sixty dollars. Though thirteen years old she never had a\nbath before she came to us. Our convenient bath room, with\nthe united efforts of two Chinese women and plenty of soap and\nwater, soon produced a comely maiden. She now looks happy\nenjoying the tasteful cloth picture books, sent out in our wel-\ncome mission boxes.",
               "id": "f004-s-u02"
             },
             {
@@ -205,7 +205,7 @@
             },
             {
               "kind": "paragraph",
-              "text": "Nothing will give a clearer idea of the Dispensary than the\nfigures representing the work of the past two years:",
+              "text": "Nothing will give a clearer idea of the DISPENSARY than the\nfigures representing the work of the past two years:",
               "id": "f004-s-u06"
             },
             {
@@ -252,34 +252,29 @@
               "id": "f005-s-u02"
             },
             {
-              "kind": "paragraph",
-              "text": "Will you dear reader?",
+              "kind": "signature",
+              "text": "Will you dear reader?    S. D. D.",
               "id": "f005-s-u03"
             },
             {
-              "kind": "signature",
-              "text": "S. D. D.",
-              "id": "f005-s-u04"
-            },
-            {
               "kind": "publisher_note",
-              "text": "The Missionary Link is the organ of the Society, giving monthly accounts of our\nmedical work.",
-              "id": "f005-s-u05"
+              "text": "THE MISSIONARY LINK is the organ of the Society, giving monthly accounts of our\nmedical work.",
+              "id": "f005-s-u04"
             },
             {
               "kind": "heading",
               "text": "OFFICERS OF THE WOMAN’S UNION MISSIONARY SOCIETY:",
-              "id": "f005-s-u06"
+              "id": "f005-s-u05"
             },
             {
               "kind": "officers",
-              "text": "Mrs. HENRY JOHNSON, President.\nMiss S. D. DOREMUS, Corresponding Secretary.\nMiss ELIZABETH B. STONE, Assistant Treasurer.\nMission Room, 67 Bible House, New York.",
-              "id": "f005-s-u07"
+              "text": "MRS. HENRY JOHNSON, President.\nMISS S. D. DOREMUS, Corresponding Secretary.\nMISS ELIZABETH B. STONE, Assistant Treasurer.\nMission Room, 67 Bible House, New York.",
+              "id": "f005-s-u06"
             },
             {
               "kind": "publisher_note",
               "text": "Checks payable to the Woman’s Union Missionary Society.",
-              "id": "f005-s-u08"
+              "id": "f005-s-u07"
             }
           ],
           "notes": []
