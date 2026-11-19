@@ -1,0 +1,319 @@
+{
+  "source_title": "Our Hospital in China",
+  "title_zh": "上海婦孺醫院紀事（約 1891）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://archive.org/details/ourhospitalinchi00dore",
+  "manifest": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_scandata.xml",
+  "source_ocr": "https://archive.org/details/ourhospitalinchi00dore",
+  "shelfmark": "OCLC 55769934 / ourhospitalinchi00dore",
+  "source_provider": "Columbia University Libraries, The Burke Library",
+  "historical_institution": "S. D. Doremus",
+  "imprint": "Woman’s Union Missionary Society, New York, [1891]",
+  "rights": "The nineteenth-century printed text is in the public domain in the United States. New editorial material and encoding are licensed under CC BY 4.0 wherever copyright applies.",
+  "coverage_note": "All six imaging frames are indexed. The transcription covers the four printed pages. The edition records later marks separately where visible.",
+  "frames": [
+    {
+      "id": "f001",
+      "frame": 1,
+      "source": {
+        "canvas": null,
+        "url": null,
+        "original_url": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_jp2.zip",
+        "size": [
+          3744,
+          5616
+        ],
+        "sha256": "6827b981e0c919abc322a427d70d62b85d0b7b8d63c1436a2b9e5e8049036d01",
+        "source_leaf": 0,
+        "source_member": "ourhospitalinchi00dore_jp2/ourhospitalinchi00dore_0000.jp2",
+        "source_member_sha256": "2a07e4fc28c3b6f7057f9f0555dec8f3050f8bc6b8659e0f7862a22d4b5bb0b2"
+      },
+      "parts": [
+        {
+          "id": "f001-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "digitization-target",
+          "units": [],
+          "notes": [
+            "Digitization color target with a sliver of the adjacent original. No unique printed text."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f002",
+      "frame": 2,
+      "source": {
+        "canvas": "https://archive.org/details/ourhospitalinchi00dore/page/n0/mode/1up",
+        "url": "https://archive.org/download/ourhospitalinchi00dore/page/n0/mode/1up",
+        "original_url": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_jp2.zip",
+        "size": [
+          1753,
+          2006
+        ],
+        "sha256": "089c2c3398dced38b4a6933a8f92e4d9f85307c25f1c6fb18d4bd84b27237d07",
+        "source_leaf": 1,
+        "source_member": "ourhospitalinchi00dore_jp2/ourhospitalinchi00dore_0001.jp2",
+        "source_member_sha256": "b8773667983c54372e8b7d8f0afc648f20a5bdeabec187117eea525ed7642232"
+      },
+      "parts": [
+        {
+          "id": "f002-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "masthead",
+              "text": "No. 81.\nWoman’s Union Missionary Society.\nHospital Series I.",
+              "id": "f002-s-u01"
+            },
+            {
+              "kind": "heading",
+              "text": "OUR HOSPITAL IN CHINA.",
+              "id": "f002-s-u02"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Just outside the native part of Shanghai stands a beautiful\nbuilding of brick and gray stone, over whose entrance is\ncarved: “Margaret Williamson Hospital, 1884.”",
+              "id": "f002-s-u03"
+            },
+            {
+              "kind": "paragraph",
+              "text": "As we pass into the hall, we see on our left a Chapel and\nReception Room; at the back a Dispensary, reached also by a\nside entrance; with a Consulting and Operating Room close at\nhand. A winding staircase leads to the wards for Women and\nChildren, with a smaller one for private patients. Two separate\nbuildings furnish every accommodation for the necessary service\nin a large institution, while a room for the Chinese girls who are\ntraining as nurses has not been forgotten.",
+              "id": "f002-s-u04"
+            },
+            {
+              "kind": "paragraph",
+              "text": "The 4th of June, 1885, was a day long to be remembered in\nthe annals of our China Mission, for then the first Hospital in\nShanghai exclusively for women and children was formally opened,\nin the presence of a large assembly of foreigners, mandarins and\nChinese officials, the Right Rev. Bishop Boone, D. D., presiding.",
+              "id": "f002-s-u05"
+            },
+            {
+              "kind": "paragraph",
+              "text": "The portrait of the beloved founder of the Hospital, Mrs.\nMargaret Williamson, was tastefully draped with American and\nChinese flags, and told its own story of love and solicitude for\nthose she would never see, but whose welfare was dear to her\nfor the Master’s sake. One, among a group of curious Chinese,\nwho had listened eagerly to this tale of Christian generosity,\nexpressed his appreciation thus: “She was like God; for His\nsake she loved us, and now, when we look upon this beautiful\nhouse, it is like seeing Jesus.”",
+              "id": "f002-s-u06"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Let us, like the visitors of that sunny afternoon, step into",
+              "id": "f002-s-u07"
+            }
+          ],
+          "notes": [
+            "Later pencil class and author marks and a faded date stamp appear above and around the printed masthead."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f003",
+      "frame": 3,
+      "source": {
+        "canvas": "https://archive.org/details/ourhospitalinchi00dore/page/n1/mode/1up",
+        "url": "https://archive.org/download/ourhospitalinchi00dore/page/n1/mode/1up",
+        "original_url": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_jp2.zip",
+        "size": [
+          1729,
+          1973
+        ],
+        "sha256": "234ec94222bd982e3ad55101172cb7de712a3793a6d8e5cd5e3b09526b8e7789",
+        "source_leaf": 2,
+        "source_member": "ourhospitalinchi00dore_jp2/ourhospitalinchi00dore_0002.jp2",
+        "source_member_sha256": "8ca41bd50065d76d89770ba44f4f20597a82454d527c6ad3b181a5584792d443"
+      },
+      "parts": [
+        {
+          "id": "f003-s",
+          "side": "S",
+          "printed_page": "2",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "continuation",
+              "text": "some of the rooms, and see the patients, who were among the\nfirst beneficiaries of the Hospital. In the Chinese reception\nroom, three tablets, tastefully carved and painted, attract the\neye of every visitor, for they announce, by the words, “Extra-\nordinary Work,” that a grateful husband in this gift, acknowl-\nedges his indebtedness for a skillful operation on his wife. In\nthe words of our medical missionaries, we are thus introduced\nto this patient, who was the first in the Hospital and occupied\nthe endowed bed, “Julia Cumming Jones.”",
+              "id": "f003-s-u01"
+            },
+            {
+              "kind": "paragraph",
+              "text": "“A native physician’s wife, sixty-five years of age, had\njourneyed 200 miles to consult the ‘foreign doctor.’ She had\nsuffered fifty years from a growth on her forehead, about the\nsize of an egg. She carried a small hand mirror, which she\nconstantly used, as half her enjoyment in life was looking at the\ntumor. On the third day after the Hospital was opened a suc-\ncessful operation was performed. Everything about the place\nwas new and wonderful to this patient, and she took such mani-\nfest delight in all she saw, that it was a real pleasure to have her\nwith us. A picture roll of twelve scenes in the life of Christ\nhung in the room, and it was astonishing how much she remem-\nbered of their explanation, given by our Bible Reader. She\nwas always an attentive attendant at prayers, and our excellent\nChristian matron trusted that she might be led to worship the\ntrue God. She often visited the Dispensary and said, ‘When I\nam at home how many marvels I will tell of the foreign doctor!’",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "paragraph",
+              "text": "“Before she left, she brought an ornamental wall-tablet in\ngold characters on a delicate pink ground, on whose right is the\nname of Dr. Elizabeth Reifsnyder, the country to which she\nbelonged, and the name of the donor. In the centre is an appro-\npriate selection from the Chinese classics setting forth the doctor’s\nskill, while on the left is a brief history of the case and cure.”",
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Doubtless the reputation of our physician was due to the\nsuccess of a dangerous operation peformed before our Hospital\nwas opened. Of this, Dr. Reifsnyder wrote: “I am watching\nbeside the first patient upon whom I operated for tumor, the first\nof its kind in North China. The woman came to me 500 miles in",
+              "id": "f003-s-u04"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f004",
+      "frame": 4,
+      "source": {
+        "canvas": "https://archive.org/details/ourhospitalinchi00dore/page/n2/mode/1up",
+        "url": "https://archive.org/download/ourhospitalinchi00dore/page/n2/mode/1up",
+        "original_url": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_jp2.zip",
+        "size": [
+          1737,
+          1990
+        ],
+        "sha256": "1eb8c8f62aca2dc3d73e5c7b0d024721da06fc7af67d3c36e92e79008310b1de",
+        "source_leaf": 3,
+        "source_member": "ourhospitalinchi00dore_jp2/ourhospitalinchi00dore_0003.jp2",
+        "source_member_sha256": "15936e266da7a31a444e0ce5ed22793ae1d362d59ec9ecfd5c177988ef74b84c"
+      },
+      "parts": [
+        {
+          "id": "f004-s",
+          "side": "S",
+          "printed_page": "3",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "continuation",
+              "text": "a wheelbarrow, through the rain, and when an operation was\ndecided upon, Dr. Boone kindly offered accommodations at St.\nLuke’s Hospital. Six physicians were present during the opera-\ntion, which consumed one hour and twenty-five minutes. There\nwas very much at stake; not only the woman’s life, but I am a\nwoman, and an American, and the operation is one of the grav-\nest. People whom I have never seen are greatly interested, and\nto the many who have prayed I doubtless owe my success.\nWithout Miss McKechnie I could not have undertaken this opera-\ntion, for her help is invaluable.”",
+              "id": "f004-s-u01"
+            },
+            {
+              "kind": "paragraph",
+              "text": "In the Children’s Ward of the Hospital may be found “a\nlittle slave girl, whose parents dying, she was sold by an uncle\nfor sixty dollars. Though thirteen years old she never had a\nbath before she came to us. Our convenient bath room, with\nthe united efforts of two Chinese women and plenty of soap and\nwater, soon produced a comely maiden. She now looks happy\nenjoying the tasteful cloth picture books, sent out in our wel-\ncome mission boxes.",
+              "id": "f004-s-u02"
+            },
+            {
+              "kind": "paragraph",
+              "text": "“Another patient, a little girl of twelve, afflicted with skin\ndiseases, has been successfully treated. She was with us six\nweeks and, at the end of that time, her relatives scarcely recog-\nnized her altered appearance, from a frightful object to a very\npretty child. She attended prayers daily, and although her\nfriends are heathen, her father came regularly to our Chapel\nevery Sunday, and occasionally I saw the mother and grand-\nmother. We have done our part faithfully, and we leave the\nrest with God, who alone can open their hearts.”",
+              "id": "f004-s-u03"
+            },
+            {
+              "kind": "paragraph",
+              "text": "“A child with a broken thigh was with us five weeks, and\ntwo dolls offered her great consolation, while her delight over a\nbright-colored quilt from America knew no bounds.”",
+              "id": "f004-s-u04"
+            },
+            {
+              "kind": "paragraph",
+              "text": "“From Dr. Reifsnyder’s Bible Class for the nurses and as-\nsistants at the Hospital, we have had some hopeful conversions,\nand it is growing in interest.”",
+              "id": "f004-s-u05"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Nothing will give a clearer idea of the Dispensary than the\nfigures representing the work of the past two years:",
+              "id": "f004-s-u06"
+            },
+            {
+              "kind": "paragraph",
+              "text": "“There were registered in 1884, 1,289 patients, and over",
+              "id": "f004-s-u07"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f005",
+      "frame": 5,
+      "source": {
+        "canvas": "https://archive.org/details/ourhospitalinchi00dore/page/n3/mode/1up",
+        "url": "https://archive.org/download/ourhospitalinchi00dore/page/n3/mode/1up",
+        "original_url": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_jp2.zip",
+        "size": [
+          1804,
+          2006
+        ],
+        "sha256": "4b5cbd49aeeea46b11aac0d00b8d928d55e4a1b26ad9ada93fcc99b29b6b1508",
+        "source_leaf": 4,
+        "source_member": "ourhospitalinchi00dore_jp2/ourhospitalinchi00dore_0004.jp2",
+        "source_member_sha256": "7315098ba3100dec7138156d09215489925c91e52eae4fe371ec68f0f27f33c7"
+      },
+      "parts": [
+        {
+          "id": "f005-s",
+          "side": "S",
+          "printed_page": "4",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "continuation",
+              "text": "3,000 prescriptions were filled. In 1885 we registered 3,129\npatients and filled 7,388 prescriptions, in 1886, 16,135 patients\nwere treated, 9,000 being new cases and 27,000 prescriptions\nwere taken, and in 1891, 21,970 patients were treated, 13,415\nbeing new cases and 29,654 prescriptions were given, thus show-\ning how we are increasing in numbers. Our waiting room is\nfilled with people as well as patients, to whom our faithful Bible\nReader very earnestly tells the story of Divine love.”",
+              "id": "f005-s-u01"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Such is a brief sketch of a work whose responsibility and\ncost is great. “To the doors of our hospital will come daily\nthe mother seeking medical aid for herself and her little ones;\nthe weary, heavy laden heathen women bearing many painful\nills of the flesh and spirit. May it prove to all, by the help of\nChristian women, and the blessings of the Great Physician, a\nhaven of love, rest and healing influences and a beacon for a\nblissful eternity!” And while we thus pray, let us reverently\nadd, “What, dear Lord, shall be our share in this good work so\nwell begun?” The sum of $600 permanently endows a bed in\nthe Margaret Williamson Hospital. We may have beloved ones\nwho need no more to be watched and tended, but in their name,\nwe may still soothe many heavy hours of pain. Who will em-\nbrace so beautiful an opportunity for the good of others? And\nwho will help to fill the mission boxes to beguile the weary mo-\nments of the convalescent?",
+              "id": "f005-s-u02"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Will you dear reader?",
+              "id": "f005-s-u03"
+            },
+            {
+              "kind": "signature",
+              "text": "S. D. D.",
+              "id": "f005-s-u04"
+            },
+            {
+              "kind": "publisher_note",
+              "text": "The Missionary Link is the organ of the Society, giving monthly accounts of our\nmedical work.",
+              "id": "f005-s-u05"
+            },
+            {
+              "kind": "heading",
+              "text": "OFFICERS OF THE WOMAN’S UNION MISSIONARY SOCIETY:",
+              "id": "f005-s-u06"
+            },
+            {
+              "kind": "officers",
+              "text": "Mrs. HENRY JOHNSON, President.\nMiss S. D. DOREMUS, Corresponding Secretary.\nMiss ELIZABETH B. STONE, Assistant Treasurer.\nMission Room, 67 Bible House, New York.",
+              "id": "f005-s-u07"
+            },
+            {
+              "kind": "publisher_note",
+              "text": "Checks payable to the Woman’s Union Missionary Society.",
+              "id": "f005-s-u08"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f006",
+      "frame": 6,
+      "source": {
+        "canvas": null,
+        "url": null,
+        "original_url": "https://archive.org/download/ourhospitalinchi00dore/ourhospitalinchi00dore_jp2.zip",
+        "size": [
+          3744,
+          5616
+        ],
+        "sha256": "8e474644252aed9b71f61b9d24d74ab30de1527f0912b119714e27704cfa9e87",
+        "source_leaf": 5,
+        "source_member": "ourhospitalinchi00dore_jp2/ourhospitalinchi00dore_0005.jp2",
+        "source_member_sha256": "4bcc546143bd143b5b04fa0e66e767fd28f79887ee010d22cf4ac4adce43e338"
+      },
+      "parts": [
+        {
+          "id": "f006-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "digitization-target",
+          "units": [],
+          "notes": [
+            "Digitization color target with a sliver of the adjacent original. No unique printed text."
+          ]
+        }
+      ]
+    }
+  ]
+}
